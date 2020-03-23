@@ -1,2 +1,2 @@
 USE myNewDB;
-SELECT * FROM Students WHERE City not REGEXP '^(a|c|s)';
+SELECT * FROM Students WHERE City not REGEXP '^(a|c|f)';
